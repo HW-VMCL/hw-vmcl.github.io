@@ -19,6 +19,7 @@ redirect_from:
 
 Hi! My name is Hongyuan Wang (王鸿远). I'm a second year M.S. student from School of Computer Scinence, Beijing Institute of Technology, supervised by [Prof. Lizhi Wang](https://wang-lizhi.github.io/). I received my bachelor's degree form the same school. I'm interested in computer photography, low-level vision, generative model and deep learning. 
 
+I enjoy researching the working principles of neural networks and designing neural networks that are in harmony with the characteristics of data. I am always fascinated by the exploration of the unknown.
 
 
 # 🔥 News
