@@ -53,7 +53,7 @@ Yuchen Wang\*, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/HySAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/HySAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Spectral-wise Correlation for Spectral Super-Resolution: Where Similarity Meets Particularity](https://arxiv.org/abs/2312.12833)
