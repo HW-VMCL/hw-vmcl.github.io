@@ -23,6 +23,7 @@ I enjoy researching the working principles of neural networks and designing neur
 
 
 # 🔥 News
+- *2024.03*: &nbsp; I serve as a reviewer for ACM MM 2024.
 - *2024.01*: &nbsp;🎉🎉 Our HySAT++ wins ICASSP SP Grand Challenge on Hyperspectral Skin Vision!
 - *2023.08*: &nbsp;🎉🎉 One paper accepts by ACM MM 2023. 
 
