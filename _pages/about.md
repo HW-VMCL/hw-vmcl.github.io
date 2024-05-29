@@ -34,15 +34,37 @@ Hi! My name is Hongyuan Wang (王鸿远). I'm a second year M.S. student from Sc
 
 **Hongyuan Wang**, Lizhi Wang, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song, Youliang Yan
 
-[**Project**](https://gitee.com/hongyuan-wang-bit/models/tree/hysat_mm23/research/cv/hysat)
-- Existing Transformers often separately emphasize either spatial-wise or spectral-wise correlation, disrupting the 3D features of hyperspectral images. We propose a Spectral-wise Discontinuous 3D (SD3D) splitting strategy to model unified spatial-spectral correlation both locally and non-locally.
-- Existing self-attention mechanism always establishes full-rank correlation matrix by learning the correlation between pairs of tokens, leading to its inability to describe linear dependence widely existing in hyperspectral images among multiple tokens. We propose a Dynamic Low-Rank Mapping (DLRM) model, which captures linear dependence among multiple tokens through a dynamically calculated low-rank dependence map.
-kens.
+**Project** (Coming soon)
+
 - Our method can model unified spatial-spectral correlation, local and non-local correlation, and low-rank and full-rank correlation, thus modeling exhaustive correlation within hyperspectral images.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/HySATPP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+HySAT++: Hybrid Spectral-wise Attention Transformer for Skin Spectral Reconstruction
+
+**Yuchen Wang\***, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song, Lizhi Wang
+
+[**Project**](https://gitee.com/hongyuan-wang-bit/models/tree/hysat_mm23/research/cv/hysat)
+
+- .
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/HySAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Spectral-wise Correlation for Spectral Super-Resolution: Where Similarity Meets Particularity](https://arxiv.org/abs/2312.12833)
+
+**Hongyuan Wang**, Lizhi Wang, Chang Chen, Xue Hu, Fenglong Song, Hua Huang
+
+[**Project**](https://gitee.com/hongyuan-wang-bit/models/tree/hysat_mm23/research/cv/hysat)
+
+- Our method can better model spectral-wise correlation compared to existing Transformer-based mothod.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.01* First Place Winner of ICASSP SP Grand Challenge on Hyperspectral Skin Vision. 
