@@ -45,15 +45,15 @@ Hi! My name is Hongyuan Wang (王鸿远). I'm a second year M.S. student from Sc
 
 HySAT++: Hybrid Spectral-wise Attention Transformer for Skin Spectral Reconstruction
 
-**Yuchen Wang\***, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song, Lizhi Wang
+Yuchen Wang\*, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song, Lizhi Wang
 
 [**Project**](https://gitee.com/hongyuan-wang-bit/models/tree/hysat_mm23/research/cv/hysat)
 
-- .
+- Our method wins the challenge with a significant advantage.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/HySAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/HySAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Spectral-wise Correlation for Spectral Super-Resolution: Where Similarity Meets Particularity](https://arxiv.org/abs/2312.12833)
