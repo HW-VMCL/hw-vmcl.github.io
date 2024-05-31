@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Hongyuan Wang (王鸿远). I'm a second year M.S. student from School of Computer Scinence, Beijing Institute of Technology, supervised by [Prof. Lizhi Wang](https://wang-lizhi.github.io/). I received my bachelor's degree form the same school. I'm interested in computer photography, low-level vision, generative model, and deep learning. 
+Hi! My name is Hongyuan Wang (王鸿远). I'm a second-year M.S. student from the School of Computer Science, Beijing Institute of Technology, supervised by [Prof. Lizhi Wang](https://wang-lizhi.github.io/). I received my bachelor's degree from the same school. I'm interested in computer photography, low-level vision, generative models, and deep learning. 
 
 I enjoy researching the working principles of neural networks and designing neural networks that are in harmony with the characteristics of data. I am always fascinated by the exploration of the unknown.
 
@@ -64,7 +64,7 @@ Yuchen Wang\*, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song,
 
 [**Project**](https://gitee.com/hongyuan-wang-bit/models/tree/hysat_mm23/research/cv/hysat)
 
-- Our method can better model spectral-wise correlation compared to existing Transformer-based mothod.
+- Our method can better model spectral-wise correlation compared to existing Transformer-based method.
 </div>
 </div>
 
