@@ -17,19 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Hongyuan Wang (王鸿远). I'm a second-year M.S. student from the School of Computer Science, Beijing Institute of Technology, supervised by [Prof. Lizhi Wang](https://wang-lizhi.github.io/). I received my bachelor's degree from the same school. I'm interested in computer photography, low-level vision, generative models, and deep learning. 
+Hi! My name is Hongyuan Wang (王鸿远). I'm a second-year M.S. student from the School of Computer Science, Beijing Institute of Technology, supervised by [Prof. Lizhi Wang](https://wang-lizhi.github.io/). I received my bachelor's degree from the same school. I'm interested in computer photography, low-level vision, generative models, and deep learning.
 
 I enjoy researching the working principles of neural networks and designing neural networks that are in harmony with the characteristics of data. I am always fascinated by the exploration of the unknown.
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV 2024. 
 - *2024.03*: &nbsp; I serve as a reviewer for ACM MM 2024.
 - *2024.01*: &nbsp;🎉🎉 Our HySAT++ wins ICASSP SP Grand Challenge on Hyperspectral Skin Vision!
 - *2023.08*: &nbsp;🎉🎉 One paper accepted by ACM MM 2023. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/ECT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Exhaustive Correlation for Spectral Super-Resolution: Where Spatial-Spectral Attention Meets Linear Dependence](https://arxiv.org/abs/2312.12833)
