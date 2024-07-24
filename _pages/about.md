@@ -21,6 +21,7 @@ Hi! My name is Hongyuan Wang (王鸿远). I'm a second-year M.S. student from th
 
 I enjoy researching the working principles of neural networks and designing neural networks that are in harmony with the characteristics of data. I am always fascinated by the exploration of the unknown.
 
+**Tips**: I will graduate in the fall of 2025, and I am looking for a job in computational photography, AIGC, or multimodal processing.
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV 2024. 
