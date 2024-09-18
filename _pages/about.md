@@ -24,6 +24,7 @@ I enjoy researching the working principles of neural networks and designing neur
 **Tips**: I will graduate in the fall of 2025, and I am looking for a job in computational photography, AIGC, or multimodal processing.
 
 # 🔥 News
+- *2024.09*: &nbsp; I serve as a reviewer for ICLR 2025.
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV 2024. 
 - *2024.03*: &nbsp; I serve as a reviewer for ACM MM 2024.
 - *2024.01*: &nbsp;🎉🎉 Our HySAT++ wins ICASSP SP Grand Challenge on Hyperspectral Skin Vision!
