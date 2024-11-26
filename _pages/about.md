@@ -49,7 +49,7 @@ I enjoy researching the working principles of neural networks and designing neur
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/HySATPP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-HySAT++: Hybrid Spectral-wise Attention Transformer for Skin Spectral Reconstruction
+[HySAT++: Hybrid Spectral-wise Attention Transformer for Skin Spectral Reconstruction](https://ieeexplore.ieee.org/document/10627155)
 
 Yuchen Wang\*, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song, Lizhi Wang
 
