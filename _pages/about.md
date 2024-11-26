@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Hongyuan Wang (王鸿远). I'm a second-year M.S. student from the School of Computer Science, Beijing Institute of Technology, supervised by [Prof. Lizhi Wang](https://wang-lizhi.github.io/). I received my bachelor's degree from the same school. I'm interested in computational photography, low-level vision, generative models, and deep learning.
+Hi! My name is Hongyuan Wang (王鸿远). I'm a third-year M.S. student from the School of Computer Science, Beijing Institute of Technology, supervised by [Prof. Lizhi Wang](https://wang-lizhi.github.io/). I received my bachelor's degree from the same school. I'm interested in computational photography, low-level vision, generative models, and deep learning.
 
 I enjoy researching the working principles of neural networks and designing neural networks that are in harmony with the characteristics of data. I am always fascinated by the exploration of the unknown.
 
 **Tips**: I will graduate in the fall of 2025, and I am looking for a job in computational photography, AIGC, or multimodal processing.
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 I am awarded the National Scholarship.
 - *2024.09*: &nbsp; I serve as a reviewer for ICLR 2025.
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV 2024. 
 - *2024.03*: &nbsp; I serve as a reviewer for ACM MM 2024.
@@ -72,6 +73,8 @@ Yuchen Wang\*, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song,
 </div>
 
 # 🎖 Honors and Awards
+- *2024.11* National Scholarship.
+- *2024.10* M.S. Student Grand Prize Scholarship.
 - *2024.01* First Place Winner of ICASSP SP Grand Challenge on Hyperspectral Skin Vision. 
 - *2023.10* M.S. Student Grand Prize Scholarship.
 - *2022.10* M.S. New Student First Prize Scholarship.
@@ -80,5 +83,6 @@ Yuchen Wang\*, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song,
 - *2022.09 - now*, School of Computer Science, Beijing Institute of Technology. 
 - *2018.09 - 2022.06*, School of Computer Science, Beijing Institute of Technology. 
 
-# 💻 Internships
+# 💻 Internships & Projects
 - *2021.11 - 2022.05*, Baidu VIS, China. (Mostly online, due to the COVID-19)
+- *2023.01 - 2024.01*, Huawei Noah's Ark Lab, China.
