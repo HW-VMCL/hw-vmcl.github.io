@@ -77,6 +77,7 @@ Yuchen Wang\*, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song,
 
 # 🎖 Honors and Awards
 - *2024.11* National Scholarship.
+- *2024.10* Excellent Student Award.
 - *2024.10* M.S. Student Grand Prize Scholarship.
 - *2024.01* First Place Winner of ICASSP SP Grand Challenge on Hyperspectral Skin Vision. 
 - *2023.10* M.S. Student Grand Prize Scholarship.
