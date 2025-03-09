@@ -17,13 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Hongyuan Wang (王鸿远). I'm a third-year M.S. student from the School of Computer Science, Beijing Institute of Technology, supervised by [Prof. Lizhi Wang](https://wang-lizhi.github.io/). I received my bachelor's degree from the same school. I'm interested in computational photography, low-level vision, generative models, and deep learning.
+Hi! My name is Hongyuan Wang (王鸿远). I'm a third-year M.S. student from the School of Computer Science, Beijing Institute of Technology. I received my bachelor's degree from the same school. I'm interested in computational photography, low-level vision, generative models, and deep learning. 
 
+<!-- 
 I enjoy researching the working principles of neural networks and designing neural networks that are in harmony with the characteristics of data. I am always fascinated by the exploration of the unknown.
-
 **Tips**: I will graduate in the fall of 2025, and I am looking for a job in computational photography, AIGC, or multimodal processing.
+-->
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper accepted by CVPR 2025. 
+- *2025.02*: &nbsp; I serve as a reviewer for ACM MM 2025.
 - *2024.11*: &nbsp;🎉🎉 I am awarded the National Scholarship.
 - *2024.09*: &nbsp; I serve as a reviewer for ICLR 2025.
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV 2024. 
@@ -40,7 +43,7 @@ I enjoy researching the working principles of neural networks and designing neur
 
 **Hongyuan Wang**, Lizhi Wang, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song, Youliang Yan
 
-**Project** (Coming soon)
+
 
 - Our method can model unified spatial-spectral correlation, local and non-local correlation, and low-rank and full-rank correlation, thus modeling exhaustive correlation within hyperspectral images.
 </div>
@@ -84,5 +87,6 @@ Yuchen Wang\*, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song,
 - *2018.09 - 2022.06*, School of Computer Science, Beijing Institute of Technology. 
 
 # 💻 Internships & Projects
-- *2021.11 - 2022.05*, Baidu VIS, China. (Mostly online, due to the COVID-19)
-- *2023.01 - 2024.01*, Huawei Noah's Ark Lab, China.
+- *2021.11 - 2022.05*, Baidu, Vision Department, Beijing, China.
+- *2023.01 - 2024.01*, Huawei, Noah's Ark Lab, Beijing, China.
+- *2025.02 - Now*, DJI, Photography Team, Shenzhen, China.
