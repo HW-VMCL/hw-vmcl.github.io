@@ -88,6 +88,6 @@ Yuchen Wang\*, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song,
 - *2018.09 - 2022.06*, School of Computer Science, Beijing Institute of Technology. 
 
 # 💻 Internships & Projects
-- *2021.11 - 2022.05*, Baidu, Vision Department, Beijing, China.
-- *2023.01 - 2024.01*, Huawei, Noah's Ark Lab, Beijing, China.
-- *2025.02 - Now*, DJI, Photography Team, Shenzhen, China.
+- *2021.11 - 2022.05*, Baidu, Vision Department.
+- *2023.01 - 2024.01*, Huawei, Noah's Ark Lab.
+- *2025.02 - Now*, DJI, Photography Team.
