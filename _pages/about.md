@@ -83,7 +83,7 @@ Yuchen Wang\*, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song,
 - *2022.10* M.S. New Student First Prize Scholarship.
 
 # 📖 Educations
-- *2022.09 - now*, School of Computer Science, Beijing Institute of Technology. 
+- *2022.09 - Now*, School of Computer Science, Beijing Institute of Technology. 
 - *2018.09 - 2022.06*, School of Computer Science, Beijing Institute of Technology. 
 
 # 💻 Internships & Projects
