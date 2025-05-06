@@ -90,4 +90,4 @@ Yuchen Wang\*, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song,
 # 💻 Internships & Projects
 - *2021.11 - 2022.05*, Baidu, Vision Department.
 - *2023.01 - 2024.01*, Huawei, Noah's Ark Lab.
-- *2025.02 - Now*, DJI, Photography Team.
+- *2025.02 - 2025.05*, DJI, Camera Department.
