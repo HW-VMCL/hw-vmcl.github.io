@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hongyuan Wang"
-description              : "M.S.Student"
+description              : "Engineer"
 repository               : "HW-VMCL/hw-vmcl.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hongyuan Wang"
   avatar           : "images/wanghongyuan.jpg"
-  bio              : "Beijing Institute of Technology"
-  location         : "Beijing, China"
+  bio              : "DJI"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "hongyuanwang@bit.edu.cn"
+  email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
