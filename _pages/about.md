@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Hongyuan Wang (王鸿远). I'm a third-year M.S. student from the School of Computer Science, Beijing Institute of Technology. I received my bachelor's degree from the same school. I'm interested in computational photography, low-level vision, generative models, and deep learning. 
+Hi! My name is Hongyuan Wang (王鸿远). I'm an engineer at DJI, working on multimedia algorithms. I received my master's degree from the School of Computer Science, Beijing Institute of Technology. I received my bachelor's degree from the same school. I'm interested in computational photography, low-level vision, and deep learning. 
 
 <!-- 
 I enjoy researching the working principles of neural networks and designing neural networks that are in harmony with the characteristics of data. I am always fascinated by the exploration of the unknown.
@@ -46,6 +46,7 @@ I enjoy researching the working principles of neural networks and designing neur
 
 
 - Our method can model unified spatial-spectral correlation, local and non-local correlation, and low-rank and full-rank correlation, thus modeling exhaustive correlation within hyperspectral images.
+- **Note**: Due to restrictions imposed by our partner company, the code presented in this paper cannot be open-sourced right now.
 </div>
 </div>
 
@@ -71,21 +72,24 @@ Yuchen Wang\*, **Hongyuan Wang\***, Jiang Xu, Chang Chen, Xue Hu, Fenglong Song,
 
 [**Project**](https://gitee.com/hongyuan-wang-bit/models/tree/hysat_mm23/research/cv/hysat)
 
-- Our method can better model spectral-wise correlation compared to existing Transformer-based method.
+- Our method can better model spectral-wise correlation compared to the existing Transformer-based method.
+- **Note**: Due to restrictions imposed by our partner company, MindSpore reconstruction of the code is presented. As the partner company has not yet merged the code into the main branch after many of our struggles, the link provided in the paper is currently inaccessible. Please use the branch code we supplied here instead, thanks.
 </div>
 </div>
 
 # 🎖 Honors and Awards
+- *2025.06* Outstanding Graduate.
 - *2024.11* National Scholarship.
-- *2024.10* Outstanding Student of Beijing Institute of Technology.
+- *2024.10* Outstanding Student.
 - *2024.10* M.S. Student Grand Prize Scholarship.
 - *2024.01* First Place Winner of ICASSP SP Grand Challenge on Hyperspectral Skin Vision. 
 - *2023.10* M.S. Student Grand Prize Scholarship.
 - *2022.10* M.S. New Student First Prize Scholarship.
 
-# 📖 Educations
-- *2022.09 - Now*, School of Computer Science, Beijing Institute of Technology. 
-- *2018.09 - 2022.06*, School of Computer Science, Beijing Institute of Technology. 
+# 📖 Educations & Experiences
+- *2025 - Now*, DJI, Camera Department.
+- *2022 - 2025*, School of Computer Science, Beijing Institute of Technology. 
+- *2018 - 2022*, School of Computer Science, Beijing Institute of Technology.
 
 # 💻 Internships & Projects
 - *2021.11 - 2022.05*, Baidu, Vision Department.
