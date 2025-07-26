@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hongyuan Wang"
-  avatar           : "images/wanghongyuan.jpg"
-  bio              : "DJI"
+  avatar           : "images/wanghongyuan02.jpg"
+  bio              : 
   location         : "Shenzhen, China"
-  employer         :
+  employer         : "DJI"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : 
+  email            : "whongy00@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
