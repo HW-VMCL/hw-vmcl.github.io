@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Hongyuan Wang (王鸿远). I'm an engineer at DJI, working on multimedia algorithms. I received my master's degree from the School of Computer Science, Beijing Institute of Technology. I received my bachelor's degree from the same school. I'm interested in computational photography, low-level vision, and deep learning. My academic journey may have drawn to a close amid the demands of crafting world-class camera productions at DJI, yet the chapter in which I reshape the world is only now opening.
+Hi! My name is Hongyuan Wang (王鸿远). I'm an engineer at DJI, working on multimedia algorithms. I received my master's degree from the School of Computer Science, Beijing Institute of Technology. I received my bachelor's degree from the same school. I'm interested in computational photography, low-level vision, and deep learning.
+
+My academic journey may have drawn to a close recently amid the demands of crafting world-class camera productions at DJI, yet the chapter in which I reshape the world is only now opening.
 <!-- 
 I enjoy researching the working principles of neural networks and designing neural networks that are in harmony with the characteristics of data. I am always fascinated by the exploration of the unknown.
 **Tips**: I will graduate in the fall of 2025, and I am looking for a job in computational photography, AIGC, or multimodal processing.
